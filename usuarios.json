@@ -8,5 +8,10 @@
         "senha": "b",
         "limite": 10,
         "usados": 0
+    },
+    "c": {
+        "senha": "c",
+        "limite": 10,
+        "usados": 0
     }
 }

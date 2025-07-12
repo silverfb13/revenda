@@ -3,5 +3,10 @@
         "senha": "ricardo",
         "limite": 200,
         "usados": 0
+    },
+    "a": {
+        "senha": "a",
+        "limite": 10,
+        "usados": 0
     }
 }

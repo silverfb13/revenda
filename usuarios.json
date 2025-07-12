@@ -1,1 +1,7 @@
-[]
+{
+    "ricardo": {
+        "senha": "ricardo",
+        "limite": 200,
+        "usados": 0
+    }
+}
